@@ -5,6 +5,14 @@
 #
 # DO NOT RUN THIS SCRIPT ON YOUR PC OR MAC!
 #
+# The latest version of this script is available at:
+# https://github.com/hwdsl2/setup-ipsec-vpn
+#
+# 
+#
+# This work is licensed under the Creative Commons Attribution-ShareAlike 3.0
+# Unported License: http://creativecommons.org/licenses/by-sa/3.0/
+#
 # Attribution required: please include my name in any derivative and let me
 # know how you have improved it!
 
