@@ -6,9 +6,9 @@
 # - All values MUST be placed inside 'single quotes'
 # - DO NOT use these special characters within values: \ " '
 
-YOUR_IPSEC_PSK='openssl rand -base64 12'
-YOUR_USERNAME='tr -dc A-Za-z </dev/urandom | head -c 8'
-YOUR_PASSWORD='openssl rand -base64 12 | tr -dc 'A-Za-z0-9!@#$%^&*()_+=' | head -c 12'
+YOUR_IPSEC_PSK='(openssl rand -base64 12)'
+YOUR_USERNAME='(tr -dc A-Za-z </dev/urandom | head -c 8)'
+YOUR_PASSWORD='(openssl rand -base64 12 | tr -dc 'A-Za-z0-9!@#$%^&*()_+=' | head -c 12)'
 
 # =====================================================
 
